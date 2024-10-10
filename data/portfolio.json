@@ -2,19 +2,19 @@
     {
         "image": "booki.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Booki est un site qui permet de trouver un logement et des activités dans la ville de son choix.",
         "link": "#"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "EBB.jpg",
+        "title": "Eco Bliss Bath",
+        "text": "Eco Bliss Bath est un site de vente de savons solides éco-responsable.",
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "Kasa.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Kasa est un site de location d'appartements entre particuliers en France.",
         "link": "#"
     }
 ]

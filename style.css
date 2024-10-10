@@ -35,10 +35,18 @@
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/montagne.jpg");
+    background: url("images/PSLweb.jpg") no-repeat center center;
     background-size: cover;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.bgimage-alt {
+    display: none;
+}
+
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
@@ -110,7 +118,16 @@
     align-items: center;
 }
 .contactColumn i {
-    color: #138475;
+    color: rgb(131, 252, 205);
+}
+
+.contactColumn a {
+    color: white;
+    text-decoration: none;
 }
 
 /* footer */
+#contact {
+    background-color: #138475;
+    color: white;
+}
