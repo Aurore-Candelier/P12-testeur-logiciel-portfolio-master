@@ -3,18 +3,18 @@
         "image": "booki.png",
         "title": "Booki",
         "text": "Booki est un site qui permet de trouver un logement et des activités dans la ville de son choix.",
-        "link": "#"
+        "link": "https://github.com/Aurore-Candelier/Booki.git"
     },
     {
         "image": "EBB.jpg",
         "title": "Eco Bliss Bath",
         "text": "Eco Bliss Bath est un site de vente de savons solides éco-responsable.",
-        "link": "#"
+        "link": "https://github.com/Aurore-Candelier/Eco-Bliss-Bath.git"
     },
     {
         "image": "Kasa.png",
         "title": "Kasa",
         "text": "Kasa est un site de location d'appartements entre particuliers en France.",
-        "link": "#"
+        "link": "https://github.com/Aurore-Candelier/Kasa.git"
     }
 ]
