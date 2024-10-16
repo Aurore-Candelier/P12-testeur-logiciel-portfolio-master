@@ -1,4 +1,11 @@
 /******* GENERAL *******/
+
+@media (min-width: 1700px) {
+    #body-responsive, .navbarScroll.navbarDark  {
+        margin: 0 10%;
+    }
+}
+
 /* spacing on all sections */
 #about,
 #skills,
@@ -35,7 +42,7 @@
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/PSLweb.jpg") no-repeat center center;
+    background: url("images/PicSaintLoup.webp") no-repeat center center;
     background-size: cover;
     position: relative;
     display: flex;
